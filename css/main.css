@@ -121,7 +121,6 @@ li a:hover {
 .right-list .dropdown-menu {
     display: none; /* JQUERY FOR VISIBILITY */
     position: absolute;
-    flex-direction: column;
     align-items: flex-start;
     width: 175px;
     padding: 25px 25px;
